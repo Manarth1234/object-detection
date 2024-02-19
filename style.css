@@ -1,0 +1,24 @@
+body {
+    background-size: cover;
+}
+.heading {
+    width: 100%;
+    margin-top: 0;
+    font-size: 35px;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+a {
+    background-color: white;
+    border-radius: 50px !important;
+    width: 400px;
+    color: red;
+}
+.back {
+    margin-top: 440px;
+    float: right;
+
+}
+canvas {
+    margin-top: 50px;
+}
